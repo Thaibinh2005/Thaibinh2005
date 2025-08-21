@@ -21,6 +21,6 @@
 
 ## ✨ About Me
 - 🎓 Sinh viên CNTT
-- 💻 Yêu thích lập trình C++ & Python
-- 🚀 Học hỏi thêm về AI & Machine Learning
+- 💻 Yêu vẽ
+- 🚀 Ước mơ cao cả
 - 📫 Liên hệ: **nguyenbinh5002@gmail.com**
