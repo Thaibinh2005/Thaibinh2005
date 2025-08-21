@@ -23,4 +23,4 @@
 - 🎓 Sinh viên CNTT
 - 💻 Yêu thích lập trình C++ & Python
 - 🚀 Học hỏi thêm về AI & Machine Learning
-- 📫 Liên hệ: **your_email@gmail.com**
+- 📫 Liên hệ: **nguyenbinh5002@gmail.com**
